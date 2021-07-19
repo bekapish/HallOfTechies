@@ -66,5 +66,16 @@ const data = [
     ],
   },
 ];
-
+{
+    name: "Vyankatesh Mishra",
+    role: "Software Development Intern",
+    image: "https://avatars.githubusercontent.com/u/59603412?v=4",
+    skills: ['html', 'java', 'C', 'Basic Python'],
+    link: [
+      "https://github.com/bekapish",
+      "https://www.linkedin.com/in/bekapish/",
+      "https://twitter.com/bekapish",
+    ],
+  },
 export default data;
+
